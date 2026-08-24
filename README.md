@@ -11,3 +11,5 @@ Features <br>
  - Applies different discount rates<br>
  - Calculates the final amount after discount<br>
  - Uses Python if, elif, and else conditions<br>
+
+<p>This is f2<p>
